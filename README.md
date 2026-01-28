@@ -1,10 +1,10 @@
-# Hi, I'm Ahmed O 👋
+# Hi, I'm Ahmed 
 
 Welcome to my GitHub! I’m a passionate **Python developer and aspiring machine learning engineer** with a strong interest in **computer vision, deep learning, and generative models**. I enjoy building projects that combine **AI, image processing, and creative problem-solving**.
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - Currently learning **Machine Learning, PyTorch, and Transformers**  
 - Building **diffusion models, UNet architectures, and image processing tools**  
@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m a passionate **Python developer and aspiring machine
 
 ---
 
-## 💻 Skills
+## Skills
 
 **Languages & Tools:**  
 Python | NumPy | Pandas | OpenCV | PyTorch | Tkinter | Git  
@@ -26,7 +26,7 @@ Blender | Godot | Jupyter Notebooks
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 Here are some of the projects I’ve worked on:
 
@@ -39,7 +39,7 @@ You can explore all my projects here: [GitHub Repositories](https://github.com/a
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Strengthen my **deep learning and AI skills**  
 - Build more **real-world machine learning projects**  
@@ -48,7 +48,7 @@ You can explore all my projects here: [GitHub Repositories](https://github.com/a
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 - GitHub: [https://github.com/a2eas](https://github.com/a2eas)  
 - Email: `ahmedpko095@gmail.com` (optional to add)  
