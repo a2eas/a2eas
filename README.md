@@ -51,7 +51,7 @@ You can explore all my projects here: [GitHub Repositories](https://github.com/a
 ## Contact Me
 
 - GitHub: [https://github.com/a2eas](https://github.com/a2eas)  
-- Email: `ahmedpko095@gmail.com` (optional to add)  
+- Email: `ahmedpko095@gmail.com`
 
 ---
 
