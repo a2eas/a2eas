@@ -1,6 +1,6 @@
 # Hi, I'm Ahmed 
 
-Welcome to my GitHub! I’m a passionate **Python developer and aspiring machine learning engineer** with a strong interest in **computer vision, deep learning, and generative models**. I enjoy building projects that combine **AI, image processing, and creative problem-solving**.
+Welcome to my GitHub! I’m a passionate **Python developer and machine learning engineer** with a strong interest in **computer vision, deep learning, and generative models**. I enjoy building projects that combine **AI, image processing, and creative problem-solving**.
 
 ---
 
